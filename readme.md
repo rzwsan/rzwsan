@@ -1,4 +1,4 @@
-Hey, I am ROWSAN.
+Hey, I am Rowsan.
 
 I'm a developer who loves to share knowledge. I write about building websites and web applications. 
 
