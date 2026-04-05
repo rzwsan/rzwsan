@@ -6,5 +6,5 @@ Love to code and make coffee.
 
 [Personal Blog.](https://rowsanas.vercel.app/en)
 
-LinkedIn: @rowsanas | Instagram: @rowsanas
+LinkedIn: @rzwsan | Instagram: @rzwsan
 
