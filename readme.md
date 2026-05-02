@@ -4,7 +4,7 @@ I write about building websites and web applications. My focus is on JS, TS. I c
 
 Love to code and make coffee.
 
-[Personal Blog.](https://rowsanas.vercel.app/en)
+[Personal Blog.](https://rzwsan.vercel.app/en)
 
 LinkedIn: @rzwsan | Instagram: @rzwsan
 
